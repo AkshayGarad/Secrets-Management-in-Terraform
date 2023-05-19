@@ -1,5 +1,5 @@
 # Enhancing Secrets Management in Terraform for Secure Infrastructure Deployments
-
+![alt text](https://github.com/AkshayGarad/Secrets-Management-in-Terraform/blob/main/1_iN9NL6N7rIqTv7MGhcBdpg.png)
 ## Introduction
 
 Effective resource management and security assurance have become critical in the quick-paced world of cloud computing and infrastructure as code (IaC). DevOps teams frequently use Terraform, an open-source infrastructure as code tool, to provision and manage cloud infrastructure. Although Terraform offers a strong and adaptable platform, managing sensitive data like API keys, passwords, and other secrets can be difficult.
